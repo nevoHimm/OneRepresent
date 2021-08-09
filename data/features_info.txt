@@ -1,0 +1,13 @@
+Funding Amount: Amount of funding in USD based on funding data from multiple sources including Clearbit. May not include undisclosed or recently-raised funding.
+Alexa Global Rank: Rank out of all websites globally for traffic in the past 3 months. The rank is calculated using a proprietary methodology that combines a site's estimated average of daily unique visitors and its estimated number of pageviews over the past 3 months.
+Snappr Photo Quality Score: Score between one and 100 based on the analysis of the quality of the photos on the company's homepage by a machine learning algorithm. The model is trained to identify features that are typically considered to form part of an aesthetically pleasing photo.
+Moz Domain Authority: Score between one and 100 that predicts how well a website will rank on Google organic search results. Higher DA scores correspond to a greater ability to rank.
+Domains Linking: Number of other domains with at least one link to any page on the company's domain.
+Twitter Followers: Number of followers of company Twitter account.
+Twitter Tweet Count: Number of statuses posted on company Twitter account.
+Facebook Likes: Number of company Facebook page likes.
+LinkedIn Followers: Number of followers of company LinkedIn account.
+Product Hunt Votes: Number of Product Hunt posts associated with the company's main domain. If there is more than one post, the one with the highest number of upvotes is used.
+Employee Count: Number of company employees identified by Clearbit, from LinkedIn and other sources.
+Mattermark Growth Score: Measure of how quickly a company is gaining traction at a given point in time. Inputs include a company's business metrics (such as employee count over time and publically announced funding) and the Mindshare Score (estimated web traffic, estimated mobile app downloads, inbound links from other websites, and followers/likes on various social media sites). These data points are weighted and the score provided is a rolling average over a 4-week period.
+Site Photo Count: Count of the number of JPEGs (photos) on the company's homepage.
